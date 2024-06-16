@@ -1,1 +1,2 @@
 hello this is my first file created in git
+creating new file for three states
